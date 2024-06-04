@@ -31,3 +31,14 @@ print(persons_name.strip())
 # 2-8 File Extensions
 filename = 'python_notes.txt'
 print(filename.removesuffix('.txt'))
+
+# 2-9 Number Eight:
+print(1+7)
+print(8+0)
+print(2*4)
+print(16/2)
+
+# 2-10 Favorite Number:
+favorite_number = "14"
+my_favorite_number = f"My favorite number is {favorite_number}"
+print(my_favorite_number)
